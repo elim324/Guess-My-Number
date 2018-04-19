@@ -1,3 +1,4 @@
 # Guess-My-Number
 C++ Console App
-An answer is randomly selected and hints will be proved when the guess is too low or too high.
+
+An answer number is randomly selected and a hint will be provided when the guess number is too low or too high.
